@@ -132,12 +132,17 @@ Antes de iniciar, instale:
 
 ---
 
-# **6. Instalação e Configuração**
+# **6. Repositório do projeto no GitHub
+
+[Link GitHub](https://github.com/Flimars/hanami-backend-mvc)
+
+### Instalação e Configuração**
+
 
 ### **1. Clonar o repositório**
 
 ```bash
-git clone https://github.com/SEU_USUARIO/hanami-backend-mvc.git
+git clone https://github.com/Flimars/hanami-backend-mvc.git
 cd hanami-backend-mvc
 ```
 
@@ -236,7 +241,7 @@ dotnet test
 Organização das tarefas da Sprint no Notion:
 
 **Link para o Kanban:**
-[AQUI LINK](https://fifth-lute-ecf.notion.site/Projeto-Hanami-Backend-API-de-An-lise-de-Dados-5af7456f4c9b468490d0ae22c20a99a2)
+[AQUI LINK](https://www.notion.so/Projeto-Hanami-Backend-API-de-An-lise-de-Dados-2c4fac5d0d9a81908ec9e06d3bd2d5ab)
 
 ---
 
